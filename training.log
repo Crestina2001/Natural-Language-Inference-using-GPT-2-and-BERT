@@ -1,0 +1,519 @@
+2023-12-06 01:56:55,106 - Epoch 1/5 - Training Loss: 1.109, Validation Loss: 0.740
+2023-12-06 01:56:55,109 - New best model found at epoch 1
+2023-12-06 01:57:12,172 - Epoch 2/5 - Training Loss: 0.565, Validation Loss: 0.619
+2023-12-06 01:57:12,175 - New best model found at epoch 2
+2023-12-06 01:57:29,396 - Epoch 3/5 - Training Loss: 0.279, Validation Loss: 0.713
+2023-12-06 01:57:46,548 - Epoch 4/5 - Training Loss: 0.152, Validation Loss: 0.953
+2023-12-06 01:58:03,707 - Epoch 5/5 - Training Loss: 0.098, Validation Loss: 1.023
+2023-12-06 01:58:04,463 - Test Accuracy: 0.785
+2023-12-06 01:58:34,250 - Epoch 1/5 - Training Loss: 0.719, Validation Loss: 0.494
+2023-12-06 01:58:34,252 - New best model found at epoch 1
+2023-12-06 01:58:51,110 - Epoch 2/5 - Training Loss: 0.327, Validation Loss: 0.646
+2023-12-06 01:59:07,977 - Epoch 3/5 - Training Loss: 0.181, Validation Loss: 0.538
+2023-12-06 01:59:24,800 - Epoch 4/5 - Training Loss: 0.125, Validation Loss: 0.801
+2023-12-06 01:59:41,526 - Epoch 5/5 - Training Loss: 0.064, Validation Loss: 0.852
+2023-12-06 01:59:42,262 - Test Accuracy: 0.780
+2023-12-06 02:00:10,042 - Epoch 1/5 - Training Loss: 0.742, Validation Loss: 0.539
+2023-12-06 02:00:10,045 - New best model found at epoch 1
+2023-12-06 02:00:26,865 - Epoch 2/5 - Training Loss: 0.311, Validation Loss: 0.602
+2023-12-06 02:00:43,821 - Epoch 3/5 - Training Loss: 0.143, Validation Loss: 0.731
+2023-12-06 02:01:00,793 - Epoch 4/5 - Training Loss: 0.110, Validation Loss: 0.851
+2023-12-06 02:01:17,753 - Epoch 5/5 - Training Loss: 0.105, Validation Loss: 0.734
+2023-12-06 02:01:18,491 - Test Accuracy: 0.789
+2023-12-06 02:01:46,898 - Epoch 1/5 - Training Loss: 0.728, Validation Loss: 0.498
+2023-12-06 02:01:46,901 - New best model found at epoch 1
+2023-12-06 02:02:03,674 - Epoch 2/5 - Training Loss: 0.308, Validation Loss: 0.617
+2023-12-06 02:02:20,406 - Epoch 3/5 - Training Loss: 0.149, Validation Loss: 0.572
+2023-12-06 02:02:37,220 - Epoch 4/5 - Training Loss: 0.114, Validation Loss: 0.686
+2023-12-06 02:02:54,061 - Epoch 5/5 - Training Loss: 0.064, Validation Loss: 1.002
+2023-12-06 02:02:54,797 - Test Accuracy: 0.793
+2023-12-06 02:03:23,068 - Epoch 1/5 - Training Loss: 0.895, Validation Loss: 0.512
+2023-12-06 02:03:23,071 - New best model found at epoch 1
+2023-12-06 02:03:40,295 - Epoch 2/5 - Training Loss: 0.409, Validation Loss: 0.556
+2023-12-06 02:03:57,485 - Epoch 3/5 - Training Loss: 0.217, Validation Loss: 0.630
+2023-12-06 02:04:14,749 - Epoch 4/5 - Training Loss: 0.103, Validation Loss: 0.725
+2023-12-06 02:04:31,829 - Epoch 5/5 - Training Loss: 0.072, Validation Loss: 0.850
+2023-12-06 02:04:32,572 - Test Accuracy: 0.789
+2023-12-06 02:04:59,596 - Epoch 1/5 - Training Loss: 0.672, Validation Loss: 0.445
+2023-12-06 02:04:59,598 - New best model found at epoch 1
+2023-12-06 02:05:16,343 - Epoch 2/5 - Training Loss: 0.320, Validation Loss: 0.477
+2023-12-06 02:05:33,238 - Epoch 3/5 - Training Loss: 0.145, Validation Loss: 0.567
+2023-12-06 02:05:50,038 - Epoch 4/5 - Training Loss: 0.102, Validation Loss: 0.671
+2023-12-06 02:06:06,928 - Epoch 5/5 - Training Loss: 0.051, Validation Loss: 0.983
+2023-12-06 02:06:07,665 - Test Accuracy: 0.793
+2023-12-06 02:06:35,293 - Epoch 1/5 - Training Loss: 0.646, Validation Loss: 0.511
+2023-12-06 02:06:35,296 - New best model found at epoch 1
+2023-12-06 02:06:52,225 - Epoch 2/5 - Training Loss: 0.329, Validation Loss: 0.477
+2023-12-06 02:06:52,228 - New best model found at epoch 2
+2023-12-06 02:07:09,169 - Epoch 3/5 - Training Loss: 0.163, Validation Loss: 0.576
+2023-12-06 02:07:26,044 - Epoch 4/5 - Training Loss: 0.073, Validation Loss: 0.781
+2023-12-06 02:07:42,942 - Epoch 5/5 - Training Loss: 0.075, Validation Loss: 0.802
+2023-12-06 02:07:43,679 - Test Accuracy: 0.809
+2023-12-06 02:08:11,643 - Epoch 1/5 - Training Loss: 0.652, Validation Loss: 0.475
+2023-12-06 02:08:11,645 - New best model found at epoch 1
+2023-12-06 02:08:28,411 - Epoch 2/5 - Training Loss: 0.318, Validation Loss: 0.536
+2023-12-06 02:08:45,199 - Epoch 3/5 - Training Loss: 0.175, Validation Loss: 0.577
+2023-12-06 02:09:02,018 - Epoch 4/5 - Training Loss: 0.082, Validation Loss: 0.853
+2023-12-06 02:09:18,886 - Epoch 5/5 - Training Loss: 0.050, Validation Loss: 0.882
+2023-12-06 02:09:19,627 - Test Accuracy: 0.805
+2023-12-06 02:09:47,655 - Epoch 1/5 - Training Loss: 1.263, Validation Loss: 1.024
+2023-12-06 02:09:47,658 - New best model found at epoch 1
+2023-12-06 02:10:03,863 - Epoch 2/5 - Training Loss: 0.804, Validation Loss: 0.543
+2023-12-06 02:10:03,867 - New best model found at epoch 2
+2023-12-06 02:10:20,102 - Epoch 3/5 - Training Loss: 0.453, Validation Loss: 0.612
+2023-12-06 02:10:36,347 - Epoch 4/5 - Training Loss: 0.218, Validation Loss: 0.652
+2023-12-06 02:10:52,570 - Epoch 5/5 - Training Loss: 0.136, Validation Loss: 0.680
+2023-12-06 02:10:53,297 - Test Accuracy: 0.785
+2023-12-06 02:11:20,234 - Epoch 1/5 - Training Loss: 0.800, Validation Loss: 0.508
+2023-12-06 02:11:20,236 - New best model found at epoch 1
+2023-12-06 02:11:36,152 - Epoch 2/5 - Training Loss: 0.356, Validation Loss: 0.530
+2023-12-06 02:11:52,061 - Epoch 3/5 - Training Loss: 0.170, Validation Loss: 0.646
+2023-12-06 02:12:08,011 - Epoch 4/5 - Training Loss: 0.070, Validation Loss: 0.882
+2023-12-06 02:12:23,935 - Epoch 5/5 - Training Loss: 0.054, Validation Loss: 0.884
+2023-12-06 02:12:24,649 - Test Accuracy: 0.793
+2023-12-06 02:12:51,210 - Epoch 1/5 - Training Loss: 0.865, Validation Loss: 0.498
+2023-12-06 02:12:51,213 - New best model found at epoch 1
+2023-12-06 02:13:07,315 - Epoch 2/5 - Training Loss: 0.369, Validation Loss: 0.550
+2023-12-06 02:13:23,327 - Epoch 3/5 - Training Loss: 0.188, Validation Loss: 0.623
+2023-12-06 02:13:39,405 - Epoch 4/5 - Training Loss: 0.092, Validation Loss: 0.761
+2023-12-06 02:13:55,410 - Epoch 5/5 - Training Loss: 0.073, Validation Loss: 0.843
+2023-12-06 02:13:56,132 - Test Accuracy: 0.780
+2023-12-06 02:14:23,031 - Epoch 1/5 - Training Loss: 0.846, Validation Loss: 0.469
+2023-12-06 02:14:23,034 - New best model found at epoch 1
+2023-12-06 02:14:39,101 - Epoch 2/5 - Training Loss: 0.383, Validation Loss: 0.522
+2023-12-06 02:14:55,096 - Epoch 3/5 - Training Loss: 0.167, Validation Loss: 0.626
+2023-12-06 02:15:11,121 - Epoch 4/5 - Training Loss: 0.101, Validation Loss: 0.793
+2023-12-06 02:15:27,179 - Epoch 5/5 - Training Loss: 0.082, Validation Loss: 0.801
+2023-12-06 02:15:27,899 - Test Accuracy: 0.764
+2023-12-06 02:15:55,165 - Epoch 1/5 - Training Loss: 1.057, Validation Loss: 0.548
+2023-12-06 02:15:55,167 - New best model found at epoch 1
+2023-12-06 02:16:11,426 - Epoch 2/5 - Training Loss: 0.490, Validation Loss: 0.547
+2023-12-06 02:16:11,429 - New best model found at epoch 2
+2023-12-06 02:16:27,676 - Epoch 3/5 - Training Loss: 0.280, Validation Loss: 0.642
+2023-12-06 02:16:43,978 - Epoch 4/5 - Training Loss: 0.137, Validation Loss: 0.633
+2023-12-06 02:17:00,261 - Epoch 5/5 - Training Loss: 0.091, Validation Loss: 0.803
+2023-12-06 02:17:00,989 - Test Accuracy: 0.793
+2023-12-06 02:17:27,804 - Epoch 1/5 - Training Loss: 0.760, Validation Loss: 0.457
+2023-12-06 02:17:27,806 - New best model found at epoch 1
+2023-12-06 02:17:43,809 - Epoch 2/5 - Training Loss: 0.374, Validation Loss: 0.477
+2023-12-06 02:17:59,723 - Epoch 3/5 - Training Loss: 0.223, Validation Loss: 0.581
+2023-12-06 02:18:15,708 - Epoch 4/5 - Training Loss: 0.128, Validation Loss: 0.619
+2023-12-06 02:18:31,710 - Epoch 5/5 - Training Loss: 0.061, Validation Loss: 0.796
+2023-12-06 02:18:32,425 - Test Accuracy: 0.805
+2023-12-06 02:18:59,131 - Epoch 1/5 - Training Loss: 0.891, Validation Loss: 0.472
+2023-12-06 02:18:59,134 - New best model found at epoch 1
+2023-12-06 02:19:15,139 - Epoch 2/5 - Training Loss: 0.420, Validation Loss: 0.507
+2023-12-06 02:19:31,096 - Epoch 3/5 - Training Loss: 0.246, Validation Loss: 0.578
+2023-12-06 02:19:47,065 - Epoch 4/5 - Training Loss: 0.119, Validation Loss: 0.716
+2023-12-06 02:20:03,095 - Epoch 5/5 - Training Loss: 0.079, Validation Loss: 0.744
+2023-12-06 02:20:03,815 - Test Accuracy: 0.793
+2023-12-06 02:20:30,615 - Epoch 1/5 - Training Loss: 0.742, Validation Loss: 0.460
+2023-12-06 02:20:30,618 - New best model found at epoch 1
+2023-12-06 02:20:46,630 - Epoch 2/5 - Training Loss: 0.397, Validation Loss: 0.473
+2023-12-06 02:21:02,609 - Epoch 3/5 - Training Loss: 0.225, Validation Loss: 0.645
+2023-12-06 02:21:18,532 - Epoch 4/5 - Training Loss: 0.119, Validation Loss: 0.736
+2023-12-06 02:21:34,482 - Epoch 5/5 - Training Loss: 0.078, Validation Loss: 0.920
+2023-12-06 02:21:35,196 - Test Accuracy: 0.793
+2023-12-07 00:21:12,642 - Epoch 1/5 - Training Loss: 0.998, Validation Loss: 0.833
+2023-12-07 00:21:12,645 - New best model found at epoch 1
+2023-12-07 00:21:29,604 - Epoch 2/5 - Training Loss: 0.522, Validation Loss: 0.551
+2023-12-07 00:21:29,607 - New best model found at epoch 2
+2023-12-07 00:21:46,765 - Epoch 3/5 - Training Loss: 0.242, Validation Loss: 0.730
+2023-12-07 00:22:03,978 - Epoch 4/5 - Training Loss: 0.124, Validation Loss: 0.695
+2023-12-07 00:22:21,153 - Epoch 5/5 - Training Loss: 0.095, Validation Loss: 0.821
+2023-12-07 00:22:21,906 - Test Accuracy: 0.802
+2023-12-07 00:22:48,432 - Epoch 1/5 - Training Loss: 0.675, Validation Loss: 0.491
+2023-12-07 00:22:48,434 - New best model found at epoch 1
+2023-12-07 00:23:05,341 - Epoch 2/5 - Training Loss: 0.280, Validation Loss: 0.546
+2023-12-07 00:23:22,223 - Epoch 3/5 - Training Loss: 0.149, Validation Loss: 0.633
+2023-12-07 00:23:39,081 - Epoch 4/5 - Training Loss: 0.106, Validation Loss: 0.710
+2023-12-07 00:23:55,969 - Epoch 5/5 - Training Loss: 0.082, Validation Loss: 0.826
+2023-12-07 00:23:56,706 - Test Accuracy: 0.827
+2023-12-07 00:24:23,230 - Epoch 1/5 - Training Loss: 0.644, Validation Loss: 0.512
+2023-12-07 00:24:23,232 - New best model found at epoch 1
+2023-12-07 00:24:39,991 - Epoch 2/5 - Training Loss: 0.258, Validation Loss: 0.710
+2023-12-07 00:24:56,801 - Epoch 3/5 - Training Loss: 0.159, Validation Loss: 0.757
+2023-12-07 00:25:13,611 - Epoch 4/5 - Training Loss: 0.097, Validation Loss: 0.785
+2023-12-07 00:25:30,383 - Epoch 5/5 - Training Loss: 0.066, Validation Loss: 1.035
+2023-12-07 00:25:31,122 - Test Accuracy: 0.819
+2023-12-07 00:25:57,600 - Epoch 1/5 - Training Loss: 0.677, Validation Loss: 0.532
+2023-12-07 00:25:57,603 - New best model found at epoch 1
+2023-12-07 00:26:14,546 - Epoch 2/5 - Training Loss: 0.274, Validation Loss: 0.584
+2023-12-07 00:26:31,355 - Epoch 3/5 - Training Loss: 0.136, Validation Loss: 0.808
+2023-12-07 00:26:48,144 - Epoch 4/5 - Training Loss: 0.099, Validation Loss: 0.712
+2023-12-07 00:27:05,055 - Epoch 5/5 - Training Loss: 0.048, Validation Loss: 1.027
+2023-12-07 00:27:05,796 - Test Accuracy: 0.778
+2023-12-07 00:27:33,845 - Epoch 1/5 - Training Loss: 0.744, Validation Loss: 0.494
+2023-12-07 00:27:33,848 - New best model found at epoch 1
+2023-12-07 00:27:51,096 - Epoch 2/5 - Training Loss: 0.328, Validation Loss: 0.522
+2023-12-07 00:28:08,476 - Epoch 3/5 - Training Loss: 0.152, Validation Loss: 0.656
+2023-12-07 00:28:25,810 - Epoch 4/5 - Training Loss: 0.100, Validation Loss: 0.834
+2023-12-07 00:28:43,141 - Epoch 5/5 - Training Loss: 0.072, Validation Loss: 0.801
+2023-12-07 00:28:43,895 - Test Accuracy: 0.798
+2023-12-07 00:29:10,570 - Epoch 1/5 - Training Loss: 0.633, Validation Loss: 0.489
+2023-12-07 00:29:10,572 - New best model found at epoch 1
+2023-12-07 00:29:27,336 - Epoch 2/5 - Training Loss: 0.297, Validation Loss: 0.564
+2023-12-07 00:29:44,092 - Epoch 3/5 - Training Loss: 0.179, Validation Loss: 0.693
+2023-12-07 00:30:00,937 - Epoch 4/5 - Training Loss: 0.060, Validation Loss: 0.841
+2023-12-07 00:30:17,775 - Epoch 5/5 - Training Loss: 0.051, Validation Loss: 0.920
+2023-12-07 00:30:18,516 - Test Accuracy: 0.819
+2023-12-07 00:30:44,738 - Epoch 1/5 - Training Loss: 0.670, Validation Loss: 0.491
+2023-12-07 00:30:44,741 - New best model found at epoch 1
+2023-12-07 00:31:01,691 - Epoch 2/5 - Training Loss: 0.319, Validation Loss: 0.620
+2023-12-07 00:31:18,430 - Epoch 3/5 - Training Loss: 0.153, Validation Loss: 0.728
+2023-12-07 00:31:35,190 - Epoch 4/5 - Training Loss: 0.061, Validation Loss: 1.150
+2023-12-07 00:31:51,988 - Epoch 5/5 - Training Loss: 0.054, Validation Loss: 0.879
+2023-12-07 00:31:52,725 - Test Accuracy: 0.810
+2023-12-07 00:32:19,094 - Epoch 1/5 - Training Loss: 0.630, Validation Loss: 0.479
+2023-12-07 00:32:19,096 - New best model found at epoch 1
+2023-12-07 00:32:36,011 - Epoch 2/5 - Training Loss: 0.309, Validation Loss: 0.522
+2023-12-07 00:32:52,817 - Epoch 3/5 - Training Loss: 0.152, Validation Loss: 0.605
+2023-12-07 00:33:09,616 - Epoch 4/5 - Training Loss: 0.061, Validation Loss: 0.955
+2023-12-07 00:33:26,428 - Epoch 5/5 - Training Loss: 0.091, Validation Loss: 0.809
+2023-12-07 00:33:27,164 - Test Accuracy: 0.794
+2023-12-07 00:33:54,199 - Epoch 1/5 - Training Loss: 1.027, Validation Loss: 0.615
+2023-12-07 00:33:54,202 - New best model found at epoch 1
+2023-12-07 00:34:10,415 - Epoch 2/5 - Training Loss: 0.479, Validation Loss: 0.525
+2023-12-07 00:34:10,418 - New best model found at epoch 2
+2023-12-07 00:34:26,657 - Epoch 3/5 - Training Loss: 0.234, Validation Loss: 0.640
+2023-12-07 00:34:42,938 - Epoch 4/5 - Training Loss: 0.116, Validation Loss: 0.742
+2023-12-07 00:34:59,202 - Epoch 5/5 - Training Loss: 0.094, Validation Loss: 0.780
+2023-12-07 00:34:59,932 - Test Accuracy: 0.823
+2023-12-07 00:35:25,941 - Epoch 1/5 - Training Loss: 0.826, Validation Loss: 0.555
+2023-12-07 00:35:25,943 - New best model found at epoch 1
+2023-12-07 00:35:41,900 - Epoch 2/5 - Training Loss: 0.345, Validation Loss: 0.535
+2023-12-07 00:35:41,902 - New best model found at epoch 2
+2023-12-07 00:35:57,809 - Epoch 3/5 - Training Loss: 0.149, Validation Loss: 0.744
+2023-12-07 00:36:13,736 - Epoch 4/5 - Training Loss: 0.097, Validation Loss: 0.857
+2023-12-07 00:36:29,752 - Epoch 5/5 - Training Loss: 0.072, Validation Loss: 0.828
+2023-12-07 00:36:30,469 - Test Accuracy: 0.810
+2023-12-07 00:36:56,500 - Epoch 1/5 - Training Loss: 0.846, Validation Loss: 0.564
+2023-12-07 00:36:56,502 - New best model found at epoch 1
+2023-12-07 00:37:12,416 - Epoch 2/5 - Training Loss: 0.380, Validation Loss: 0.531
+2023-12-07 00:37:12,419 - New best model found at epoch 2
+2023-12-07 00:37:28,311 - Epoch 3/5 - Training Loss: 0.157, Validation Loss: 0.710
+2023-12-07 00:37:44,269 - Epoch 4/5 - Training Loss: 0.081, Validation Loss: 0.939
+2023-12-07 00:38:00,250 - Epoch 5/5 - Training Loss: 0.055, Validation Loss: 0.925
+2023-12-07 00:38:00,965 - Test Accuracy: 0.802
+2023-12-07 00:38:27,029 - Epoch 1/5 - Training Loss: 0.821, Validation Loss: 0.535
+2023-12-07 00:38:27,031 - New best model found at epoch 1
+2023-12-07 00:38:42,966 - Epoch 2/5 - Training Loss: 0.342, Validation Loss: 0.521
+2023-12-07 00:38:42,969 - New best model found at epoch 2
+2023-12-07 00:38:58,956 - Epoch 3/5 - Training Loss: 0.171, Validation Loss: 0.598
+2023-12-07 00:39:14,866 - Epoch 4/5 - Training Loss: 0.099, Validation Loss: 0.791
+2023-12-07 00:39:30,751 - Epoch 5/5 - Training Loss: 0.053, Validation Loss: 0.862
+2023-12-07 00:39:31,463 - Test Accuracy: 0.810
+2023-12-07 00:39:58,260 - Epoch 1/5 - Training Loss: 0.997, Validation Loss: 0.568
+2023-12-07 00:39:58,263 - New best model found at epoch 1
+2023-12-07 00:40:14,516 - Epoch 2/5 - Training Loss: 0.494, Validation Loss: 0.534
+2023-12-07 00:40:14,519 - New best model found at epoch 2
+2023-12-07 00:40:30,808 - Epoch 3/5 - Training Loss: 0.284, Validation Loss: 0.556
+2023-12-07 00:40:47,121 - Epoch 4/5 - Training Loss: 0.142, Validation Loss: 0.726
+2023-12-07 00:41:03,408 - Epoch 5/5 - Training Loss: 0.068, Validation Loss: 0.825
+2023-12-07 00:41:04,132 - Test Accuracy: 0.810
+2023-12-07 00:41:29,790 - Epoch 1/5 - Training Loss: 0.699, Validation Loss: 0.479
+2023-12-07 00:41:29,792 - New best model found at epoch 1
+2023-12-07 00:41:45,793 - Epoch 2/5 - Training Loss: 0.366, Validation Loss: 0.486
+2023-12-07 00:42:01,868 - Epoch 3/5 - Training Loss: 0.188, Validation Loss: 0.644
+2023-12-07 00:42:17,895 - Epoch 4/5 - Training Loss: 0.094, Validation Loss: 0.771
+2023-12-07 00:42:33,853 - Epoch 5/5 - Training Loss: 0.068, Validation Loss: 0.956
+2023-12-07 00:42:34,570 - Test Accuracy: 0.831
+2023-12-07 00:43:00,141 - Epoch 1/5 - Training Loss: 0.725, Validation Loss: 0.491
+2023-12-07 00:43:00,143 - New best model found at epoch 1
+2023-12-07 00:43:16,097 - Epoch 2/5 - Training Loss: 0.361, Validation Loss: 0.532
+2023-12-07 00:43:32,053 - Epoch 3/5 - Training Loss: 0.205, Validation Loss: 0.722
+2023-12-07 00:43:48,068 - Epoch 4/5 - Training Loss: 0.088, Validation Loss: 0.847
+2023-12-07 00:44:04,025 - Epoch 5/5 - Training Loss: 0.059, Validation Loss: 0.850
+2023-12-07 00:44:04,740 - Test Accuracy: 0.819
+2023-12-07 00:44:30,160 - Epoch 1/5 - Training Loss: 0.784, Validation Loss: 0.509
+2023-12-07 00:44:30,162 - New best model found at epoch 1
+2023-12-07 00:44:46,153 - Epoch 2/5 - Training Loss: 0.389, Validation Loss: 0.504
+2023-12-07 00:44:46,157 - New best model found at epoch 2
+2023-12-07 00:45:02,186 - Epoch 3/5 - Training Loss: 0.210, Validation Loss: 0.598
+2023-12-07 00:45:18,215 - Epoch 4/5 - Training Loss: 0.089, Validation Loss: 0.722
+2023-12-07 00:45:34,150 - Epoch 5/5 - Training Loss: 0.074, Validation Loss: 0.860
+2023-12-07 00:45:34,862 - Test Accuracy: 0.819
+2023-12-07 01:25:05,973 - Epoch 1/5 - Training Loss: 0.742, Validation Loss: 0.546
+2023-12-07 01:25:05,976 - New best model found at epoch 1
+2023-12-07 01:25:23,094 - Epoch 2/5 - Training Loss: 0.314, Validation Loss: 0.570
+2023-12-07 01:25:40,268 - Epoch 3/5 - Training Loss: 0.138, Validation Loss: 0.680
+2023-12-07 01:25:57,546 - Epoch 4/5 - Training Loss: 0.110, Validation Loss: 0.768
+2023-12-07 01:26:14,703 - Epoch 5/5 - Training Loss: 0.060, Validation Loss: 0.913
+2023-12-07 01:26:15,453 - Test Accuracy: 0.770
+2023-12-07 01:26:42,265 - Epoch 1/5 - Training Loss: 0.670, Validation Loss: 0.492
+2023-12-07 01:26:42,267 - New best model found at epoch 1
+2023-12-07 01:26:58,986 - Epoch 2/5 - Training Loss: 0.291, Validation Loss: 0.618
+2023-12-07 01:27:15,695 - Epoch 3/5 - Training Loss: 0.127, Validation Loss: 0.713
+2023-12-07 01:27:32,462 - Epoch 4/5 - Training Loss: 0.099, Validation Loss: 0.721
+2023-12-07 01:27:49,271 - Epoch 5/5 - Training Loss: 0.055, Validation Loss: 1.081
+2023-12-07 01:27:50,001 - Test Accuracy: 0.774
+2023-12-07 01:28:16,948 - Epoch 1/5 - Training Loss: 0.706, Validation Loss: 0.534
+2023-12-07 01:28:16,950 - New best model found at epoch 1
+2023-12-07 01:28:33,738 - Epoch 2/5 - Training Loss: 0.329, Validation Loss: 0.623
+2023-12-07 01:28:50,502 - Epoch 3/5 - Training Loss: 0.181, Validation Loss: 0.690
+2023-12-07 01:29:07,324 - Epoch 4/5 - Training Loss: 0.081, Validation Loss: 0.841
+2023-12-07 01:29:24,134 - Epoch 5/5 - Training Loss: 0.084, Validation Loss: 0.748
+2023-12-07 01:29:24,874 - Test Accuracy: 0.774
+2023-12-07 01:29:51,083 - Epoch 1/5 - Training Loss: 0.619, Validation Loss: 0.552
+2023-12-07 01:29:51,085 - New best model found at epoch 1
+2023-12-07 01:30:07,880 - Epoch 2/5 - Training Loss: 0.315, Validation Loss: 0.711
+2023-12-07 01:30:24,718 - Epoch 3/5 - Training Loss: 0.140, Validation Loss: 0.946
+2023-12-07 01:30:41,510 - Epoch 4/5 - Training Loss: 0.081, Validation Loss: 0.766
+2023-12-07 01:30:58,343 - Epoch 5/5 - Training Loss: 0.066, Validation Loss: 0.903
+2023-12-07 01:30:59,079 - Test Accuracy: 0.770
+2023-12-07 01:31:26,673 - Epoch 1/5 - Training Loss: 1.064, Validation Loss: 0.705
+2023-12-07 01:31:26,675 - New best model found at epoch 1
+2023-12-07 01:31:43,916 - Epoch 2/5 - Training Loss: 0.544, Validation Loss: 0.543
+2023-12-07 01:31:43,918 - New best model found at epoch 2
+2023-12-07 01:32:01,109 - Epoch 3/5 - Training Loss: 0.283, Validation Loss: 0.579
+2023-12-07 01:32:18,276 - Epoch 4/5 - Training Loss: 0.143, Validation Loss: 0.711
+2023-12-07 01:32:35,421 - Epoch 5/5 - Training Loss: 0.069, Validation Loss: 0.760
+2023-12-07 01:32:36,169 - Test Accuracy: 0.774
+2023-12-07 01:33:03,063 - Epoch 1/5 - Training Loss: 0.723, Validation Loss: 0.484
+2023-12-07 01:33:03,065 - New best model found at epoch 1
+2023-12-07 01:33:19,687 - Epoch 2/5 - Training Loss: 0.346, Validation Loss: 0.524
+2023-12-07 01:33:36,348 - Epoch 3/5 - Training Loss: 0.160, Validation Loss: 0.664
+2023-12-07 01:33:53,042 - Epoch 4/5 - Training Loss: 0.076, Validation Loss: 0.799
+2023-12-07 01:34:09,820 - Epoch 5/5 - Training Loss: 0.067, Validation Loss: 0.723
+2023-12-07 01:34:10,556 - Test Accuracy: 0.774
+2023-12-07 01:34:37,174 - Epoch 1/5 - Training Loss: 0.641, Validation Loss: 0.495
+2023-12-07 01:34:37,176 - New best model found at epoch 1
+2023-12-07 01:34:53,937 - Epoch 2/5 - Training Loss: 0.303, Validation Loss: 0.580
+2023-12-07 01:35:10,713 - Epoch 3/5 - Training Loss: 0.138, Validation Loss: 0.682
+2023-12-07 01:35:27,497 - Epoch 4/5 - Training Loss: 0.097, Validation Loss: 0.708
+2023-12-07 01:35:44,341 - Epoch 5/5 - Training Loss: 0.055, Validation Loss: 0.833
+2023-12-07 01:35:45,075 - Test Accuracy: 0.815
+2023-12-07 01:36:11,531 - Epoch 1/5 - Training Loss: 0.645, Validation Loss: 0.510
+2023-12-07 01:36:11,533 - New best model found at epoch 1
+2023-12-07 01:36:28,285 - Epoch 2/5 - Training Loss: 0.312, Validation Loss: 0.566
+2023-12-07 01:36:45,086 - Epoch 3/5 - Training Loss: 0.150, Validation Loss: 0.632
+2023-12-07 01:37:01,928 - Epoch 4/5 - Training Loss: 0.084, Validation Loss: 0.789
+2023-12-07 01:37:18,947 - Epoch 5/5 - Training Loss: 0.045, Validation Loss: 0.979
+2023-12-07 01:37:19,680 - Test Accuracy: 0.819
+2023-12-07 01:37:46,433 - Epoch 1/5 - Training Loss: 0.752, Validation Loss: 0.594
+2023-12-07 01:37:46,436 - New best model found at epoch 1
+2023-12-07 01:38:02,683 - Epoch 2/5 - Training Loss: 0.349, Validation Loss: 0.568
+2023-12-07 01:38:02,686 - New best model found at epoch 2
+2023-12-07 01:38:18,943 - Epoch 3/5 - Training Loss: 0.160, Validation Loss: 0.717
+2023-12-07 01:38:35,141 - Epoch 4/5 - Training Loss: 0.075, Validation Loss: 0.773
+2023-12-07 01:38:51,443 - Epoch 5/5 - Training Loss: 0.066, Validation Loss: 0.755
+2023-12-07 01:38:52,174 - Test Accuracy: 0.802
+2023-12-07 01:39:18,235 - Epoch 1/5 - Training Loss: 0.805, Validation Loss: 0.531
+2023-12-07 01:39:18,237 - New best model found at epoch 1
+2023-12-07 01:39:34,179 - Epoch 2/5 - Training Loss: 0.351, Validation Loss: 0.513
+2023-12-07 01:39:34,181 - New best model found at epoch 2
+2023-12-07 01:39:50,119 - Epoch 3/5 - Training Loss: 0.131, Validation Loss: 0.964
+2023-12-07 01:40:06,078 - Epoch 4/5 - Training Loss: 0.095, Validation Loss: 0.899
+2023-12-07 01:40:22,109 - Epoch 5/5 - Training Loss: 0.078, Validation Loss: 0.862
+2023-12-07 01:40:22,835 - Test Accuracy: 0.798
+2023-12-07 01:40:48,617 - Epoch 1/5 - Training Loss: 0.797, Validation Loss: 0.507
+2023-12-07 01:40:48,620 - New best model found at epoch 1
+2023-12-07 01:41:04,686 - Epoch 2/5 - Training Loss: 0.343, Validation Loss: 0.564
+2023-12-07 01:41:20,700 - Epoch 3/5 - Training Loss: 0.135, Validation Loss: 0.707
+2023-12-07 01:41:36,763 - Epoch 4/5 - Training Loss: 0.084, Validation Loss: 0.794
+2023-12-07 01:41:52,767 - Epoch 5/5 - Training Loss: 0.078, Validation Loss: 0.830
+2023-12-07 01:41:53,488 - Test Accuracy: 0.782
+2023-12-07 01:42:18,767 - Epoch 1/5 - Training Loss: 0.819, Validation Loss: 0.577
+2023-12-07 01:42:18,769 - New best model found at epoch 1
+2023-12-07 01:42:34,736 - Epoch 2/5 - Training Loss: 0.354, Validation Loss: 0.602
+2023-12-07 01:42:50,773 - Epoch 3/5 - Training Loss: 0.154, Validation Loss: 0.677
+2023-12-07 01:43:06,798 - Epoch 4/5 - Training Loss: 0.103, Validation Loss: 0.967
+2023-12-07 01:43:22,754 - Epoch 5/5 - Training Loss: 0.060, Validation Loss: 1.038
+2023-12-07 01:43:23,467 - Test Accuracy: 0.782
+2023-12-07 01:43:49,815 - Epoch 1/5 - Training Loss: 1.053, Validation Loss: 0.637
+2023-12-07 01:43:49,818 - New best model found at epoch 1
+2023-12-07 01:44:06,034 - Epoch 2/5 - Training Loss: 0.495, Validation Loss: 0.556
+2023-12-07 01:44:06,037 - New best model found at epoch 2
+2023-12-07 01:44:22,281 - Epoch 3/5 - Training Loss: 0.296, Validation Loss: 0.600
+2023-12-07 01:44:38,558 - Epoch 4/5 - Training Loss: 0.164, Validation Loss: 0.756
+2023-12-07 01:44:54,880 - Epoch 5/5 - Training Loss: 0.088, Validation Loss: 1.038
+2023-12-07 01:44:55,615 - Test Accuracy: 0.802
+2023-12-07 01:45:21,377 - Epoch 1/5 - Training Loss: 0.726, Validation Loss: 0.487
+2023-12-07 01:45:21,380 - New best model found at epoch 1
+2023-12-07 01:45:37,299 - Epoch 2/5 - Training Loss: 0.383, Validation Loss: 0.489
+2023-12-07 01:45:53,276 - Epoch 3/5 - Training Loss: 0.207, Validation Loss: 0.564
+2023-12-07 01:46:09,200 - Epoch 4/5 - Training Loss: 0.101, Validation Loss: 0.772
+2023-12-07 01:46:25,147 - Epoch 5/5 - Training Loss: 0.056, Validation Loss: 0.860
+2023-12-07 01:46:25,856 - Test Accuracy: 0.815
+2023-12-07 01:46:51,747 - Epoch 1/5 - Training Loss: 0.735, Validation Loss: 0.513
+2023-12-07 01:46:51,749 - New best model found at epoch 1
+2023-12-07 01:47:07,736 - Epoch 2/5 - Training Loss: 0.400, Validation Loss: 0.508
+2023-12-07 01:47:07,739 - New best model found at epoch 2
+2023-12-07 01:47:23,734 - Epoch 3/5 - Training Loss: 0.202, Validation Loss: 0.599
+2023-12-07 01:47:39,666 - Epoch 4/5 - Training Loss: 0.106, Validation Loss: 0.815
+2023-12-07 01:47:55,658 - Epoch 5/5 - Training Loss: 0.070, Validation Loss: 0.932
+2023-12-07 01:47:56,377 - Test Accuracy: 0.839
+2023-12-07 01:48:22,153 - Epoch 1/5 - Training Loss: 0.780, Validation Loss: 0.513
+2023-12-07 01:48:22,155 - New best model found at epoch 1
+2023-12-07 01:48:38,050 - Epoch 2/5 - Training Loss: 0.380, Validation Loss: 0.514
+2023-12-07 01:48:53,932 - Epoch 3/5 - Training Loss: 0.222, Validation Loss: 0.628
+2023-12-07 01:49:09,772 - Epoch 4/5 - Training Loss: 0.107, Validation Loss: 0.915
+2023-12-07 01:49:25,676 - Epoch 5/5 - Training Loss: 0.071, Validation Loss: 0.811
+2023-12-07 01:49:26,387 - Test Accuracy: 0.819
+2023-12-10 11:21:34,134 - Epoch 1/2 - Training Loss: 1.105, Validation Loss: 1.117
+2023-12-10 11:21:34,137 - New best model found at epoch 1
+2023-12-10 11:21:49,628 - Epoch 2/2 - Training Loss: 1.106, Validation Loss: 1.099
+2023-12-10 11:21:49,630 - New best model found at epoch 2
+2023-12-10 11:21:50,378 - Test Accuracy: 0.310
+2023-12-10 11:32:47,669 - Epoch 1/5 - Training Loss: 1.080, Validation Loss: 1.012
+2023-12-10 11:32:47,671 - New best model found at epoch 1
+2023-12-10 11:33:47,337 - Epoch 2/5 - Training Loss: 0.940, Validation Loss: 0.901
+2023-12-10 11:33:47,339 - New best model found at epoch 2
+2023-12-10 11:34:46,900 - Epoch 3/5 - Training Loss: 0.689, Validation Loss: 0.901
+2023-12-10 11:35:46,564 - Epoch 4/5 - Training Loss: 0.477, Validation Loss: 0.882
+2023-12-10 11:35:46,566 - New best model found at epoch 4
+2023-12-10 11:36:46,344 - Epoch 5/5 - Training Loss: 0.293, Validation Loss: 0.930
+2023-12-10 11:36:48,914 - Test Accuracy: 0.694
+2023-12-10 11:49:01,665 - Epoch 1/5 - Training Loss: 1.095, Validation Loss: 1.031
+2023-12-10 11:49:01,667 - New best model found at epoch 1
+2023-12-10 11:50:03,688 - Epoch 2/5 - Training Loss: 0.923, Validation Loss: 0.851
+2023-12-10 11:50:03,692 - New best model found at epoch 2
+2023-12-10 11:51:06,029 - Epoch 3/5 - Training Loss: 0.581, Validation Loss: 0.982
+2023-12-10 11:52:08,337 - Epoch 4/5 - Training Loss: 0.269, Validation Loss: 1.068
+2023-12-10 11:53:10,680 - Epoch 5/5 - Training Loss: 0.117, Validation Loss: 1.321
+2023-12-10 11:53:13,326 - Test Accuracy: 0.622
+2023-12-10 11:54:22,863 - Epoch 1/5 - Training Loss: 1.070, Validation Loss: 0.978
+2023-12-10 11:54:22,865 - New best model found at epoch 1
+2023-12-10 11:55:25,218 - Epoch 2/5 - Training Loss: 0.854, Validation Loss: 0.923
+2023-12-10 11:55:25,223 - New best model found at epoch 2
+2023-12-10 11:56:27,663 - Epoch 3/5 - Training Loss: 0.543, Validation Loss: 0.936
+2023-12-10 11:57:30,038 - Epoch 4/5 - Training Loss: 0.225, Validation Loss: 1.108
+2023-12-10 11:58:32,380 - Epoch 5/5 - Training Loss: 0.105, Validation Loss: 1.301
+2023-12-10 11:58:35,033 - Test Accuracy: 0.642
+2023-12-10 11:59:44,696 - Epoch 1/5 - Training Loss: 1.109, Validation Loss: 1.082
+2023-12-10 11:59:44,698 - New best model found at epoch 1
+2023-12-10 12:00:47,038 - Epoch 2/5 - Training Loss: 1.098, Validation Loss: 1.096
+2023-12-10 12:01:49,375 - Epoch 3/5 - Training Loss: 0.986, Validation Loss: 1.057
+2023-12-10 12:01:49,377 - New best model found at epoch 3
+2023-12-10 12:02:51,446 - Epoch 4/5 - Training Loss: 0.906, Validation Loss: 1.175
+2023-12-10 12:03:53,670 - Epoch 5/5 - Training Loss: 0.666, Validation Loss: 1.044
+2023-12-10 12:03:53,672 - New best model found at epoch 5
+2023-12-10 12:03:56,314 - Test Accuracy: 0.614
+2023-12-10 12:05:03,430 - Epoch 1/5 - Training Loss: 1.096, Validation Loss: 1.063
+2023-12-10 12:05:03,433 - New best model found at epoch 1
+2023-12-10 12:06:03,112 - Epoch 2/5 - Training Loss: 0.983, Validation Loss: 0.973
+2023-12-10 12:06:03,114 - New best model found at epoch 2
+2023-12-10 12:07:02,761 - Epoch 3/5 - Training Loss: 0.712, Validation Loss: 0.942
+2023-12-10 12:07:02,764 - New best model found at epoch 3
+2023-12-10 12:08:02,445 - Epoch 4/5 - Training Loss: 0.464, Validation Loss: 1.048
+2023-12-10 12:09:02,130 - Epoch 5/5 - Training Loss: 0.232, Validation Loss: 1.095
+2023-12-10 12:09:04,687 - Test Accuracy: 0.589
+2023-12-10 12:10:11,171 - Epoch 1/5 - Training Loss: 1.113, Validation Loss: 1.104
+2023-12-10 12:10:11,173 - New best model found at epoch 1
+2023-12-10 12:11:10,754 - Epoch 2/5 - Training Loss: 1.014, Validation Loss: 0.960
+2023-12-10 12:11:10,756 - New best model found at epoch 2
+2023-12-10 12:12:10,339 - Epoch 3/5 - Training Loss: 0.708, Validation Loss: 0.904
+2023-12-10 12:12:10,341 - New best model found at epoch 3
+2023-12-10 12:13:09,928 - Epoch 4/5 - Training Loss: 0.396, Validation Loss: 1.092
+2023-12-10 12:14:09,528 - Epoch 5/5 - Training Loss: 0.172, Validation Loss: 1.255
+2023-12-10 12:14:12,078 - Test Accuracy: 0.614
+2023-12-10 12:15:19,283 - Epoch 1/5 - Training Loss: 1.109, Validation Loss: 1.095
+2023-12-10 12:15:19,285 - New best model found at epoch 1
+2023-12-10 12:16:18,889 - Epoch 2/5 - Training Loss: 0.972, Validation Loss: 0.952
+2023-12-10 12:16:18,891 - New best model found at epoch 2
+2023-12-10 12:17:18,313 - Epoch 3/5 - Training Loss: 0.664, Validation Loss: 0.804
+2023-12-10 12:17:18,315 - New best model found at epoch 3
+2023-12-10 12:18:17,953 - Epoch 4/5 - Training Loss: 0.374, Validation Loss: 0.872
+2023-12-10 12:19:17,531 - Epoch 5/5 - Training Loss: 0.219, Validation Loss: 1.202
+2023-12-10 12:19:20,092 - Test Accuracy: 0.638
+2023-12-10 13:13:50,335 - Epoch 1/5 - Training Loss: 1.063, Validation Loss: 0.959
+2023-12-10 13:13:50,337 - New best model found at epoch 1
+2023-12-10 13:14:52,505 - Epoch 2/5 - Training Loss: 0.799, Validation Loss: 0.898
+2023-12-10 13:14:52,508 - New best model found at epoch 2
+2023-12-10 13:15:54,718 - Epoch 3/5 - Training Loss: 0.485, Validation Loss: 0.947
+2023-12-10 13:16:57,160 - Epoch 4/5 - Training Loss: 0.244, Validation Loss: 1.106
+2023-12-10 13:17:59,504 - Epoch 5/5 - Training Loss: 0.125, Validation Loss: 1.335
+2023-12-10 13:18:02,177 - Test Accuracy: 0.690
+2023-12-10 13:19:12,538 - Epoch 1/5 - Training Loss: 1.053, Validation Loss: 0.968
+2023-12-10 13:19:12,540 - New best model found at epoch 1
+2023-12-10 13:20:14,972 - Epoch 2/5 - Training Loss: 0.781, Validation Loss: 0.846
+2023-12-10 13:20:14,976 - New best model found at epoch 2
+2023-12-10 13:21:17,509 - Epoch 3/5 - Training Loss: 0.462, Validation Loss: 0.955
+2023-12-10 13:22:20,011 - Epoch 4/5 - Training Loss: 0.202, Validation Loss: 1.134
+2023-12-10 13:23:22,478 - Epoch 5/5 - Training Loss: 0.112, Validation Loss: 1.192
+2023-12-10 13:23:25,164 - Test Accuracy: 0.673
+2023-12-10 13:24:35,120 - Epoch 1/5 - Training Loss: 1.032, Validation Loss: 0.902
+2023-12-10 13:24:35,123 - New best model found at epoch 1
+2023-12-10 13:25:37,647 - Epoch 2/5 - Training Loss: 0.736, Validation Loss: 0.893
+2023-12-10 13:25:37,650 - New best model found at epoch 2
+2023-12-10 13:26:40,141 - Epoch 3/5 - Training Loss: 0.424, Validation Loss: 0.785
+2023-12-10 13:26:40,143 - New best model found at epoch 3
+2023-12-10 13:27:42,625 - Epoch 4/5 - Training Loss: 0.157, Validation Loss: 1.057
+2023-12-10 13:28:45,190 - Epoch 5/5 - Training Loss: 0.105, Validation Loss: 1.076
+2023-12-10 13:28:47,887 - Test Accuracy: 0.673
+2023-12-10 13:29:55,181 - Epoch 1/5 - Training Loss: 1.087, Validation Loss: 1.043
+2023-12-10 13:29:55,183 - New best model found at epoch 1
+2023-12-10 13:30:54,866 - Epoch 2/5 - Training Loss: 0.907, Validation Loss: 0.939
+2023-12-10 13:30:54,868 - New best model found at epoch 2
+2023-12-10 13:31:54,581 - Epoch 3/5 - Training Loss: 0.638, Validation Loss: 0.902
+2023-12-10 13:31:54,583 - New best model found at epoch 3
+2023-12-10 13:32:54,345 - Epoch 4/5 - Training Loss: 0.393, Validation Loss: 0.996
+2023-12-10 13:33:54,104 - Epoch 5/5 - Training Loss: 0.238, Validation Loss: 1.128
+2023-12-10 13:33:56,683 - Test Accuracy: 0.665
+2023-12-10 13:35:04,063 - Epoch 1/5 - Training Loss: 1.087, Validation Loss: 1.038
+2023-12-10 13:35:04,066 - New best model found at epoch 1
+2023-12-10 13:36:03,992 - Epoch 2/5 - Training Loss: 0.850, Validation Loss: 0.850
+2023-12-10 13:36:03,995 - New best model found at epoch 2
+2023-12-10 13:37:03,807 - Epoch 3/5 - Training Loss: 0.479, Validation Loss: 0.812
+2023-12-10 13:37:03,809 - New best model found at epoch 3
+2023-12-10 13:38:03,536 - Epoch 4/5 - Training Loss: 0.245, Validation Loss: 0.981
+2023-12-10 13:39:03,300 - Epoch 5/5 - Training Loss: 0.105, Validation Loss: 1.158
+2023-12-10 13:39:05,883 - Test Accuracy: 0.698
+2023-12-10 13:40:13,190 - Epoch 1/5 - Training Loss: 1.106, Validation Loss: 1.097
+2023-12-10 13:40:13,192 - New best model found at epoch 1
+2023-12-10 13:41:13,007 - Epoch 2/5 - Training Loss: 1.019, Validation Loss: 0.880
+2023-12-10 13:41:13,009 - New best model found at epoch 2
+2023-12-10 13:42:12,824 - Epoch 3/5 - Training Loss: 0.692, Validation Loss: 0.903
+2023-12-10 13:43:12,654 - Epoch 4/5 - Training Loss: 0.327, Validation Loss: 0.981
+2023-12-10 13:44:12,348 - Epoch 5/5 - Training Loss: 0.149, Validation Loss: 1.203
+2023-12-10 13:44:14,929 - Test Accuracy: 0.702
+2023-12-10 14:05:58,925 - Epoch 1/5 - Training Loss: 1.089, Validation Loss: 1.027
+2023-12-10 14:05:58,927 - New best model found at epoch 1
+2023-12-10 14:07:01,451 - Epoch 2/5 - Training Loss: 0.847, Validation Loss: 1.025
+2023-12-10 14:07:01,454 - New best model found at epoch 2
+2023-12-10 14:08:03,765 - Epoch 3/5 - Training Loss: 0.537, Validation Loss: 0.785
+2023-12-10 14:08:03,767 - New best model found at epoch 3
+2023-12-10 14:09:06,262 - Epoch 4/5 - Training Loss: 0.260, Validation Loss: 0.919
+2023-12-10 14:10:08,728 - Epoch 5/5 - Training Loss: 0.157, Validation Loss: 0.968
+2023-12-10 14:10:11,408 - Test Accuracy: 0.730
+2023-12-10 14:11:20,969 - Epoch 1/5 - Training Loss: 1.093, Validation Loss: 1.039
+2023-12-10 14:11:20,972 - New best model found at epoch 1
+2023-12-10 14:12:23,556 - Epoch 2/5 - Training Loss: 0.817, Validation Loss: 0.780
+2023-12-10 14:12:23,561 - New best model found at epoch 2
+2023-12-10 14:13:26,113 - Epoch 3/5 - Training Loss: 0.451, Validation Loss: 0.986
+2023-12-10 14:14:28,636 - Epoch 4/5 - Training Loss: 0.199, Validation Loss: 1.089
+2023-12-10 14:15:31,218 - Epoch 5/5 - Training Loss: 0.074, Validation Loss: 1.200
+2023-12-10 14:15:33,895 - Test Accuracy: 0.714
+2023-12-10 14:16:43,951 - Epoch 1/5 - Training Loss: 1.041, Validation Loss: 0.883
+2023-12-10 14:16:43,953 - New best model found at epoch 1
+2023-12-10 14:17:46,360 - Epoch 2/5 - Training Loss: 0.739, Validation Loss: 0.904
+2023-12-10 14:18:48,721 - Epoch 3/5 - Training Loss: 0.354, Validation Loss: 0.961
+2023-12-10 14:19:51,060 - Epoch 4/5 - Training Loss: 0.194, Validation Loss: 1.074
+2023-12-10 14:20:53,492 - Epoch 5/5 - Training Loss: 0.112, Validation Loss: 1.291
+2023-12-10 14:20:56,163 - Test Accuracy: 0.617
+2023-12-10 14:22:03,138 - Epoch 1/5 - Training Loss: 1.094, Validation Loss: 1.037
+2023-12-10 14:22:03,140 - New best model found at epoch 1
+2023-12-10 14:23:02,971 - Epoch 2/5 - Training Loss: 0.888, Validation Loss: 0.931
+2023-12-10 14:23:02,974 - New best model found at epoch 2
+2023-12-10 14:24:02,813 - Epoch 3/5 - Training Loss: 0.633, Validation Loss: 0.853
+2023-12-10 14:24:02,815 - New best model found at epoch 3
+2023-12-10 14:25:02,590 - Epoch 4/5 - Training Loss: 0.368, Validation Loss: 0.926
+2023-12-10 14:26:02,350 - Epoch 5/5 - Training Loss: 0.187, Validation Loss: 1.029
+2023-12-10 14:26:04,926 - Test Accuracy: 0.677
+2023-12-10 14:27:12,182 - Epoch 1/5 - Training Loss: 1.083, Validation Loss: 1.015
+2023-12-10 14:27:12,187 - New best model found at epoch 1
+2023-12-10 14:28:12,119 - Epoch 2/5 - Training Loss: 0.823, Validation Loss: 0.801
+2023-12-10 14:28:12,121 - New best model found at epoch 2
+2023-12-10 14:29:11,969 - Epoch 3/5 - Training Loss: 0.539, Validation Loss: 0.772
+2023-12-10 14:29:11,971 - New best model found at epoch 3
+2023-12-10 14:30:11,680 - Epoch 4/5 - Training Loss: 0.237, Validation Loss: 0.974
+2023-12-10 14:31:11,458 - Epoch 5/5 - Training Loss: 0.109, Validation Loss: 1.183
+2023-12-10 14:31:14,036 - Test Accuracy: 0.645
+2023-12-10 14:32:20,777 - Epoch 1/5 - Training Loss: 1.073, Validation Loss: 0.959
+2023-12-10 14:32:20,779 - New best model found at epoch 1
+2023-12-10 14:33:20,557 - Epoch 2/5 - Training Loss: 0.831, Validation Loss: 0.776
+2023-12-10 14:33:20,559 - New best model found at epoch 2
+2023-12-10 14:34:20,381 - Epoch 3/5 - Training Loss: 0.503, Validation Loss: 0.833
+2023-12-10 14:35:20,158 - Epoch 4/5 - Training Loss: 0.256, Validation Loss: 1.041
+2023-12-10 14:36:19,892 - Epoch 5/5 - Training Loss: 0.122, Validation Loss: 1.497
+2023-12-10 14:36:22,470 - Test Accuracy: 0.657
